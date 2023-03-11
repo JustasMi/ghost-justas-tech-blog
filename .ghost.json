@@ -4,7 +4,7 @@
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://old-sunset-5418.fly.dev",
+    "contentApiKey": "62cf034efe1c9904f5c4708d86"
   }
 }
